@@ -1,0 +1,8 @@
+{
+  "name": "cse-36",
+  "private": true,
+  "scripts": {
+    "dev": "npm --prefix \"./project five\" run dev",
+    "build": "npm --prefix \"./project five\" run build"
+  }
+}
